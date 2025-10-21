@@ -16,7 +16,7 @@ This project analyzes the **Email-Eu-core network** from Stanford SNAP using gra
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/email-network-analysis.git
+git clone https://github.com/yauheniyadrozd/email-network-analysis.git
 cd email-network-analysis
 
 # Install dependencies
